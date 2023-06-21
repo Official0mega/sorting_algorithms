@@ -5,30 +5,16 @@
 | Implemented Algorithms |
 |:-|
 |['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Insertion sort'](./Insertion sort) |  build sorted list by inserting elements in correct position.. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
-
-| Insertion sort |
-| Selection sort |
-| Quick sort |
-| Shell sort |
-| Cocktail shaker sort |
-| Counting sort |
-| Merge sort |
-| Heap sort |
-| Radix sort |
-| Bitonic sort |
-
+|['Insertion sort'](./Insertion sort) |  build sorted list by inserting elements in correct position. |
+|['Selection sort'](./Selection sort) |   iteratively find and swap the smallest element to its correct position. |
+|['Quick sort'](./Quick sort) |  recursively partition and sort elements. |
+|['Shell sort'](./Shell sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Cocktail shaker sort'](./Cocktail shaker sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Counting sort'](./Counting sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Merge sort'](./Merge sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Heap sort'](./Heap sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bitonic sort'](./Bitonic sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Radix sort'](./Radix sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
 
 # General
 * At least four different sorting algorithms
