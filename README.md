@@ -1,5 +1,10 @@
 # 0x1B. C - Sorting algorithms & Big O
 
+![bubble_sort_graphical_illustration](https://github.com/Official0mega/sorting_algorithms/assets/122806822/dd40de63-ed98-4436-b46e-be49e8dbc442)
+![mergesort](https://github.com/Official0mega/sorting_algorithms/assets/122806822/a9767b5d-20e1-4469-bed2-1f02b596fe39)
+![merge_sort](https://github.com/Official0mega/sorting_algorithms/assets/122806822/3594ea95-43e4-4d3f-8fde-a44445dbbe94)
+
+
 * This project contains the implementation of several sorting algorithms using The C Programming Language __C__.
 
 # The Implemented Algorithms
