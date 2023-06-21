@@ -4,7 +4,20 @@
 
 | Implemented Algorithms |
 |:-|
-| Bubble sort |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Insertion sort'](./Insertion sort) |  build sorted list by inserting elements in correct position.. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+|['Bubble sort'](./Bubble sort) |  repeatedly compare and swap adjacent elements until the list is sorted. |
+
 | Insertion sort |
 | Selection sort |
 | Quick sort |
