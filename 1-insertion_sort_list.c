@@ -11,13 +11,15 @@
 #include "sort.h"
 
 /**
- * insertion_sort_list - Sorts a doubly linked list of integers in ascending order
+ * insertion_sort_list - Sorts a doubly linked list of integer
+ * in ascending order
  *                        using the insertion sort algorithm.
  * @list: Pointer to a pointer to the head of the doubly linked list.
  *
  * Description: This function implements the insertion sort algorithm to sort a
  *              doubly linked list of integers in ascending order. It compares
- *              adjacent nodes and swaps them if they are in the wrong order until
+ *              adjacent nodes and swaps them if they are in
+ *              the wrong order until
  *              the entire list is sorted.
  */
 void insertion_sort_list(listint_t **list)
@@ -105,13 +107,17 @@ void swap_nodes(listint_t **list, listint_t *l, listint_t *r)
 }
 
 /**
- * insertion_sort_list2 - Sorts a doubly linked list of integers in ascending order
+ * insertion_sort_list2 - Sorts a doubly linked list of integers
+ * in ascending order
  *                         using the insertion sort algorithm.
  * @list: Pointer to a pointer to the head of the doubly linked list.
  *
- * Description: This function sorts a doubly linked list of integers in ascending order
- *              using the insertion sort algorithm. It compares each node with the previous
- *              nodes and swaps them if necessary until the entire list is sorted.
+ * Description: This function sorts a doubly linked list of
+ * integers in ascending order
+ *              using the insertion sort algorithm. It compares
+ *              each node with the previous
+ *              nodes and swaps them if necessary until the entire
+ *              list is sorted.
  */
 void insertion_sort_list2(listint_t **list)
 {
