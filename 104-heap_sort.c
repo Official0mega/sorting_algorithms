@@ -39,9 +39,11 @@ void swap_items(int *array, size_t l, size_t r)
  * @pos: The position of the largest element in the max heap sub-array.
  *
  * Description: This function compares the element at the given position
- *              with its children and swaps it with the larger child if necessary,
+ *              with its children and swaps it with the larger
+ *              child if necessary,
  *              ensuring that the max-heap property is maintained.
- *              It continues this process until the element is in its correct sorted position.
+ *              It continues this process until the element is in
+ *              its correct sorted position.
  */
 void sift_down(int *array, int arr_size, int size, int pos)
 {
@@ -66,8 +68,10 @@ void sift_down(int *array, int arr_size, int size, int pos)
  * @array: The array to convert to a max heap binary tree.
  * @size: The length of the array.
  *
- * Description: This function converts the given array into a max heap binary tree
- *              by repeatedly calling sift_down on each parent node starting from
+ * Description: This function converts the given array into a max
+ * .......heap binary tree
+ *              by repeatedly calling sift_down on each parent
+ *              ......node starting from
  *              the last non-leaf node up to the root.
  */
 void build_max_heap(int *array, int size)
@@ -89,7 +93,8 @@ void build_max_heap(int *array, int size)
  *              It first builds a max heap from the array, ensuring that the
  *              largest element is at the root. It then repeatedly swaps the
  *              root element with the last unsorted element, reduces the size
- *              of the heap, and calls sift_down to restore the max heap property.
+ *              of the heap, and calls sift_down to restore the
+ *              max heap property.
  *              The process continues until the entire array is sorted.
  */
 void heap_sort(int *array, size_t size)
