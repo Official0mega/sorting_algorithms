@@ -6,7 +6,7 @@
  * @size: Number of elements in @array.
  *
  * Description:
- * This function takes an array of integers and the size of the array as parameters
+ * Function takes an array of integers & the size of the array as parameters
  * and prints the elements of the array. The elements are separated by commas,
  * and a newline character is printed at the end.
  */
